@@ -1,0 +1,2 @@
+gimme two scripts, in which one will read all the dog image and make embeddings and push to postgreSQL, and another will do ask filename of test dog and then i will have a test dag image on root folder and enter its name, it will get the test image embeddings and check with the postgres and give me the id of the dog that matches this!
+also one more script that gets filename of new dog and add its embedding to postgreSQL!
